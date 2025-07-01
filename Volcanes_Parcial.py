@@ -11,6 +11,7 @@ def registrar():
             break
         else:
             print('Sólo Letras')
+            print("tengo hambre")
    
     altura=int(input('Ingrese Altura del Volcán: '))  
     agno=int(input('Ingrese Año Última Erupción: '))   
@@ -92,4 +93,4 @@ while True:
     else:
         print('Opción Incorrecta')
 
-print ('pe')
+print ('hola')
